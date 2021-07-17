@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Mohit",
+      "lastName": "Verma",
+      "email": "mohit.2000@gmail.com",
+      "mobile": "8725 918465",
+      "salary": "125000"
+    },
+    {
+      "id": 2,
+      "firstName": "Nikhil",
+      "lastName": "Sharma   ",
+      "email": "nikhil@gmail.com",
+      "mobile": "78124164817",
+      "salary": "142452"
+    },
+    {
+      "id": 3,
+      "firstName": "Mohit",
+      "lastName": "Gautam",
+      "email": "gautam.2000@gmail.com",
+      "mobile": "7812416412",
+      "salary": "897342"
+    },
+    {
+      "id": 4,
+      "firstName": "Naman",
+      "lastName": "Jain",
+      "email": "jain.2000@gmail.com",
+      "mobile": "7812418171",
+      "salary": "897312"
+    },
+    {
+      "id": 5,
+      "firstName": "Mukesh",
+      "lastName": "mahajan",
+      "email": "mukesh.119@gmail.com",
+      "mobile": "78124164817",
+      "salary": "897312"
+    },
+    {
+      "id": 6,
+      "firstName": "Manpreet",
+      "lastName": "Singh",
+      "email": "manpreet.0962@gmail.com",
+      "mobile": "9825447785",
+      "salary": "133534"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
